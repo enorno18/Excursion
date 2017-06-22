@@ -1,7 +1,7 @@
 * {background-color:black;
   text-align: center;
   font-family: Verdana;
-  
+
 }
 
 h1 {font-weight: normal;
@@ -22,8 +22,6 @@ p {font-size: 21px;
   color: Gray;
 }
 
-#footer {color:Gray;
+.footer {color:Gray;
   text-align: right;
-  border-bottom: 0;
-  position:absolute;
 }
